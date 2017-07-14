@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Paweł Szymczyk
+bio: software engineer, independent consultant, photographer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+#resume: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://pszymczyk.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,22 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+500px: paweszymczyk
+#facebook: myfacebook
+twitter: p_szymczyk
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: paweł-szymczyk-a7402660
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: pszymczyk
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 4203773/paweł-szymczyk
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: pawel.szymczyk90@gmail.com
 
 authors:
     johndoe:
@@ -75,11 +76,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
